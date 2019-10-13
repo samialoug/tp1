@@ -1,0 +1,27 @@
+h2{
+    color:green;
+    font-style:italic;
+    font-size:20px;
+}
+h2:hover{
+    color:purple;
+}
+ img{
+    margin-left:50%;
+ }
+ .sp{ 
+     color:red;
+ }
+ p{
+     border:5px double;
+     border-color: blue;
+     padding:40px;
+     margin:60px;
+     width:50%;
+     height:50%;
+   
+ }
+ div{
+     display:flex;
+
+ }
